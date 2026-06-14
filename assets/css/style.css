@@ -680,7 +680,7 @@ img {
 }
 
 .image-grid-text-item p {
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 25px;
     margin-top: 17px;
 }
@@ -1065,7 +1065,7 @@ img {
         max-width: 600px;
         width: 90%;
         margin: 0 auto;
-        padding: auto 30px;
+        padding: 0 30px;
     }
 
     .review-text {
